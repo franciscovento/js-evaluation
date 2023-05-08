@@ -1,10 +1,11 @@
 {
   "name": "students-test",
   "version": "1.0.0",
-  "description": "this is a testing project for education purposes",
+  "description": "This is a project for evaluating students for educational purposes",
   "main": "main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node main.js"
   },
   "author": "",
   "license": "ISC",

@@ -12,7 +12,7 @@ El archivo checkpoint.js dentro de la carpeta src contiene varios ejercicios que
 2. Ejecuta el comando **npm install** para instalar las dependencias del proyecto.
 3. Abre el archivo checkpoint.js dentro de la carpeta src.
 4. Lee cuidadosamente las instrucciones para cada ejercicio y escribe tu solución dentro del espacio proporcionado.
-5. Ejecuta el comando **npm start** en la línea de comandos para correr las funciones con datos de prueba y ver los resultados en la consola.
+5. Ejecuta el comando **npm start** en la línea de comandos para correr las funciones con datos de prueba y ver los resultados en la consola. (los datos de prueba los puedes ver en la carpeta data dentro de src)
 6. Ejecuta el comando **npm test** en la línea de comandos para correr las pruebas automatizadas y asegurarte de que tu código funcione correctamente.
 7. Una vez que hayas completado todos los ejercicios y tus pruebas pasen, haz un commit de tus cambios y envía tus soluciones para ser evaluadas.
 
